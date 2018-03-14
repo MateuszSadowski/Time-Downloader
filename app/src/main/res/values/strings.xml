@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TimeDownloader</string>
+    <string name="menu_item1_text">Menu item 1</string>
 </resources>
